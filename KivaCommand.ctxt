@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=KivaCommand
+comment0.text=\r\nKivaCommands\ tell\ the\ kiva\ what\ to\ do.\ Each\ command\ has\ a\ corresponding\ keyboard\ key\ for\ the\r\nuser\ to\ enter\ when\ prompted.\r\n
+comment1.params=directionKey
+comment1.target=KivaCommand(char)
+comment1.text=\r\n\ Takes\ the\ user's\ key\ input.\r\n\ @param\ directionKey\r\n
+comment2.params=
+comment2.target=char\ getDirectionKey()
+comment2.text=\r\n\ Prints\ the\ key\ entered\ by\ the\ user.\r\n\ @return\ directionKey\r\n
+numComments=3
